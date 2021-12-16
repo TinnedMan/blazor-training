@@ -98,39 +98,6 @@
         }
       },
       {
-        "HashCode": -1623084599,
-        "Kind": "Components.Component",
-        "Name": "blazor_training.Pages.Index",
-        "AssemblyName": "blazor training",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_training.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1220410546,
-        "Kind": "Components.Component",
-        "Name": "blazor_training.Pages.Index",
-        "AssemblyName": "blazor training",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor_training.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_training.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 454415890,
         "Kind": "Components.Component",
         "Name": "blazor_training.Pages.Todo",
@@ -160,6 +127,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazor_training.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1623084599,
+        "Kind": "Components.Component",
+        "Name": "blazor_training.Pages.Index",
+        "AssemblyName": "blazor training",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_training.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1220410546,
+        "Kind": "Components.Component",
+        "Name": "blazor_training.Pages.Index",
+        "AssemblyName": "blazor training",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_training.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_training.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -246,39 +246,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazor_training.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1130202084,
-        "Kind": "Components.Component",
-        "Name": "blazor_training.Shared.NavMenu",
-        "AssemblyName": "blazor training",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_training.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 1960173471,
-        "Kind": "Components.Component",
-        "Name": "blazor_training.Shared.NavMenu",
-        "AssemblyName": "blazor training",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor_training.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_training.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -375,6 +342,39 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "blazor_training.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1130202084,
+        "Kind": "Components.Component",
+        "Name": "blazor_training.Shared.NavMenu",
+        "AssemblyName": "blazor training",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_training.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1960173471,
+        "Kind": "Components.Component",
+        "Name": "blazor_training.Shared.NavMenu",
+        "AssemblyName": "blazor training",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_training.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_training.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
