@@ -131,6 +131,39 @@
         }
       },
       {
+        "HashCode": 454415890,
+        "Kind": "Components.Component",
+        "Name": "blazor_training.Pages.Todo",
+        "AssemblyName": "blazor training",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_training.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 1493124435,
+        "Kind": "Components.Component",
+        "Name": "blazor_training.Pages.Todo",
+        "AssemblyName": "blazor training",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_training.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_training.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1935393544,
         "Kind": "Components.Component",
         "Name": "blazor_training.App",
@@ -16684,6 +16717,11 @@
     {
       "FilePath": "c:\\Users\\Joela\\OneDrive\\repos\\blazor training\\App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Joela\\OneDrive\\repos\\blazor training\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     }
   ],
