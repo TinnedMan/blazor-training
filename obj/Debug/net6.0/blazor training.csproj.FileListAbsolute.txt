@@ -1,0 +1,27 @@
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\appsettings.json
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\blazor training.staticwebassets.runtime.json
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\blazor training.exe
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\blazor training.deps.json
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\blazor training.runtimeconfig.json
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\blazor training.dll
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\ref\blazor training.dll
+C:\Users\Joela\OneDrive\repos\blazor training\bin\Debug\net6.0\blazor training.pdb
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.csproj.AssemblyReference.cache
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.AssemblyInfoInputs.cache
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.AssemblyInfo.cs
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.csproj.CoreCompileInputs.cache
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.RazorAssemblyInfo.cache
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.RazorAssemblyInfo.cs
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\scopedcss\bundle\blazor training.styles.css
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\scopedcss\projectbundle\blazor training.bundle.scp.css
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.dll
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\ref\blazor training.dll
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.pdb
+C:\Users\Joela\OneDrive\repos\blazor training\obj\Debug\net6.0\blazor training.genruntimeconfig.cache
